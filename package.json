@@ -1,0 +1,16 @@
+{
+"name": "ufacr7s",
+"theme": "ufacr7s",
+"version": "6.4.3",
+"description": "ufacr7s ทางเข้าหลักเว็บแทงบอลเว็บตรง คนเล่นเยอะ ให้เครดิตฟรี",
+"keywords": [
+"ufacr7s",
+"ufacr7s เครดิตฟรี",
+"ufacr7s ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/ufacr7s",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
